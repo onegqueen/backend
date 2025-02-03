@@ -1,5 +1,6 @@
 # 📌 봉장부 | AI OCR을 활용한 장부 작성 자동화 프로그램
 ### 더욱 투명하고 간편한 학생회비 관리, 봉장부로 시작하세요 !
+![image](https://github.com/user-attachments/assets/87549994-4666-4de1-a91b-d194d686baa3)
 
 ## 1. 프로젝트 소개
 > 본 프로젝트는 학생회 장부 관리의 비효율성을 해결하고자 시작되었습니다.
@@ -11,11 +12,11 @@
 - 학생회 역할(회장, 총무, 감사 등)에 따라 접근 권한을 다르게 설정합니다.
 - 모든 장부 내역은 기록되어 감사 시 활용할 수 있습니다.
 ```
-👥 팀원 구성
-  | 정채원 | 강지원 |
-  | :--------: | :--------: |
-  |<a href = "https://github.com/chaewonjeong"> <img width="200" src="https://github.com/user-attachments/assets/2386dc94-bdb2-451f-9771-71699fa214d2"></a>|<a href = "https://github.com/onegqueen"> <img width="200" src="https://github.com/user-attachments/assets/1ef89f28-6b5b-452a-93b1-241bebfb0437"></a>|
-  |   **@chaewonjeong**    |      **@onegqueen**      |
+### 👥 팀원 구성
+  | 정채원 | 강지원 | 이재훈 | 박기재 |
+  | :--------: | :--------: | :--------: | :--------: |
+  |<a href = "https://github.com/chaewonjeong"> <img width="200" src="https://github.com/user-attachments/assets/2386dc94-bdb2-451f-9771-71699fa214d2"></a>|<a href = "https://github.com/onegqueen"> <img width="200" src="https://github.com/user-attachments/assets/1ef89f28-6b5b-452a-93b1-241bebfb0437"></a>|||
+  |   **@chaewonjeong**    |      **@onegqueen**      |**@**|**@**|
 
 ## 2. 개발 환경
 
@@ -23,17 +24,22 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 - **Back-end** : 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 - **DB** : 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 - **버전 및 이슈관리** : 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 - **협업 툴** :
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+
 - **서비스 배포 환경** :
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
